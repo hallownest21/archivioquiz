@@ -1,0 +1,13 @@
+img {
+    border-radius: 50%;
+    width: 410px;
+}
+
+#marciano {
+    width: 80px;
+    border-radius: 10%;
+}
+
+.rosso {
+    border: 1px solid red;
+}
